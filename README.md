@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/sankalp-dixit/questions/tree/master/0383-ransom-note) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/sankalp-dixit/questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
 |  |
 | ------- |
@@ -32,17 +33,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/sankalp-dixit/questions/tree/master/0547-number-of-provinces) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/sankalp-dixit/questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sankalp-dixit/questions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/sankalp-dixit/questions/tree/master/0547-number-of-provinces) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/sankalp-dixit/questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Array
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/sankalp-dixit/questions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/sankalp-dixit/questions/tree/master/0994-rotting-oranges) |
 | [1288-remove-covered-intervals](https://github.com/sankalp-dixit/questions/tree/master/1288-remove-covered-intervals) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/sankalp-dixit/questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Matrix
 |  |
 | ------- |
@@ -60,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sankalp-dixit/questions/tree/master/0207-course-schedule) |
+## Binary Search
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/sankalp-dixit/questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
