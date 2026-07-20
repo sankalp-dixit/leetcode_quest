@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0733-flood-fill](https://github.com/sankalp-dixit/questions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/sankalp-dixit/questions/tree/master/0994-rotting-oranges) |
+| [1260-shift-2d-grid](https://github.com/sankalp-dixit/questions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/sankalp-dixit/questions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/sankalp-dixit/questions/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sankalp-dixit/questions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0733-flood-fill](https://github.com/sankalp-dixit/questions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/sankalp-dixit/questions/tree/master/0994-rotting-oranges) |
+| [1260-shift-2d-grid](https://github.com/sankalp-dixit/questions/tree/master/1260-shift-2d-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sankalp-dixit/questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/sankalp-dixit/questions/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
