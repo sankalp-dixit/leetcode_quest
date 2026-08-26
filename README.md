@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sankalp-dixit/questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sankalp-dixit/questions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sankalp-dixit/questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/sankalp-dixit/questions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sankalp-dixit/questions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sankalp-dixit/questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sankalp-dixit/questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/sankalp-dixit/questions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Matrix
 |  |
 | ------- |
