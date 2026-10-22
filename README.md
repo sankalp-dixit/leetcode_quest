@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sankalp-dixit/questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0733-flood-fill](https://github.com/sankalp-dixit/questions/tree/master/0733-flood-fill) |
 | [0977-squares-of-a-sorted-array](https://github.com/sankalp-dixit/questions/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/sankalp-dixit/questions/tree/master/0994-rotting-oranges) |
@@ -99,11 +100,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sankalp-dixit/questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sankalp-dixit/questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sankalp-dixit/questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sankalp-dixit/questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/sankalp-dixit/questions/tree/master/0977-squares-of-a-sorted-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sankalp-dixit/questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
