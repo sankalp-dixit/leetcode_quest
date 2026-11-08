@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/sankalp-dixit/questions/tree/master/0141-linked-list-cycle) |
 | [0383-ransom-note](https://github.com/sankalp-dixit/questions/tree/master/0383-ransom-note) |
 | [1331-rank-transform-of-an-array](https://github.com/sankalp-dixit/questions/tree/master/1331-rank-transform-of-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sankalp-dixit/questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/sankalp-dixit/questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sankalp-dixit/questions/tree/master/0016-3sum-closest) |
+| [0141-linked-list-cycle](https://github.com/sankalp-dixit/questions/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sankalp-dixit/questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/sankalp-dixit/questions/tree/master/0977-squares-of-a-sorted-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sankalp-dixit/questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -159,4 +161,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3904-smallest-stable-index-ii](https://github.com/sankalp-dixit/questions/tree/master/3904-smallest-stable-index-ii) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/sankalp-dixit/questions/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/sankalp-dixit/questions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
