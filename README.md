@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sankalp-dixit/questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sankalp-dixit/questions/tree/master/0016-3sum-closest) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sankalp-dixit/questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/sankalp-dixit/questions/tree/master/0287-find-the-duplicate-number) |
 | [0733-flood-fill](https://github.com/sankalp-dixit/questions/tree/master/0733-flood-fill) |
 | [0977-squares-of-a-sorted-array](https://github.com/sankalp-dixit/questions/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/sankalp-dixit/questions/tree/master/0994-rotting-oranges) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sankalp-dixit/questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/sankalp-dixit/questions/tree/master/0287-find-the-duplicate-number) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sankalp-dixit/questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sankalp-dixit/questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Two Pointers
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/sankalp-dixit/questions/tree/master/0016-3sum-closest) |
 | [0141-linked-list-cycle](https://github.com/sankalp-dixit/questions/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sankalp-dixit/questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/sankalp-dixit/questions/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/sankalp-dixit/questions/tree/master/0977-squares-of-a-sorted-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sankalp-dixit/questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/sankalp-dixit/questions/tree/master/0287-find-the-duplicate-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sankalp-dixit/questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Enumeration
 |  |
@@ -169,4 +173,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sankalp-dixit/questions/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/sankalp-dixit/questions/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/sankalp-dixit/questions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
